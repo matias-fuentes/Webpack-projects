@@ -2,7 +2,7 @@
 
 ## URLs
 
--   DragProject: https://dragproject.herokuapp.com/
+-   DragProject: https://dragproject.vercel.app
 
 ## Repositories
 
